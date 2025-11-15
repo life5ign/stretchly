@@ -37,7 +37,7 @@ export default {
   naturalBreaks: true,
   naturalBreaksInactivityResetTime: 300000,
   allScreens: true,
-  useIdeasFromSettings: false,
+  useIdeasFromSettings: true,
   language: 'en',
   notifyNewVersion: true,
   isFirstRun: true,

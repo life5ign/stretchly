@@ -1,6 +1,6 @@
 export default [
   {
-    data: 'biz bot',
+    data: 'this is a customized microbreak idea',
     enabled: true
   }
 ]
