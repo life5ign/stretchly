@@ -39,6 +39,14 @@
   },
   "homepage": "https://hovancik.net/stretchly",
   "build": {
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "life5ign",
+        "repo": "stretchly",
+        "releaseType": "release"
+      }
+  ],
     "appId": "net.hovancik.stretchly",
     "productName": "Stretchly",
     "dmg": {
