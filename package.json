@@ -1,6 +1,6 @@
 {
   "name": "Stretchly",
-  "version": "1.20.0",
+  "version": "1.20.1",
   "description": "The break time reminder app",
   "main": "app/main.js",
   "type": "module",
@@ -46,7 +46,7 @@
         "repo": "stretchly",
         "releaseType": "release"
       }
-  ],
+    ],
     "appId": "net.hovancik.stretchly",
     "productName": "Stretchly",
     "dmg": {
